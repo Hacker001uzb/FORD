@@ -1,0 +1,74 @@
+ .btnn{
+        color: #fff;
+        background-color: black;
+        font-family: Work Sans;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: center;
+         width: 170px;
+        height: 48px;
+        border: none;
+  
+        border-radius: 4px;
+       }
+
+       .dias{
+    font-family: Crimson Text;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: start;
+    
+    
+       }
+
+       .pa{
+
+        font-family: Work Sans;
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: start;
+
+        
+        }
+        .comment__wrapper{
+            display: flex;
+            margin-top: 80px;
+            
+        }
+        .comment__contact{
+            display: flex;
+            flex-direction: column;
+            margin: 50px 100px;
+        
+        }
+
+ @media screen and (max-width:600px)
+ {
+    .comment__wrapper{
+        width: 335px;
+height: 240.88px;
+gap: 0px;
+opacity: 0px;
+margin-top: -30px;
+
+    }
+    .dias{
+       margin-top: 230px;
+       margin-left: -455px;
+       text-align: start;
+    }
+    .pa{
+        margin-left: -455px;
+
+    }
+    .btnn{
+        margin-left: -455px;
+        
+        
+    }
+ }
+      
+      

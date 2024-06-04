@@ -1,0 +1,59 @@
+.us{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Crimson Text;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    text-align: center;
+
+}
+.victus{
+    background-color: rebeccapurple;
+}
+.submit{
+    display: flex;
+    padding: 8px;
+    justify-content: center;
+    width: 575px;
+    height: 48px;
+    margin-top: 30px;
+}
+input{
+    width: 575px;
+height: 38px;
+gap: 0px;
+border-radius: 5px 5px 5px 5px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+background: #EEEEEE;
+border-radius: 5px;
+margin-top: 20px;
+}
+.ford{
+    width: 575px;
+height: 75px;
+gap: 0px;
+border-radius: 5px 5px 5px 5px;
+border: 1px 1px 1px 1px;
+opacity: 0px;
+border-radius: 5px;
+background: #EEEEEE;
+
+}
+.bike{
+   padding-top: 13px;
+   
+}
+.map__right{
+    margin-left: 600px;
+    margin-top: -390px;
+}
+.map__contact{
+    margin-top: 25px;
+    margin-bottom: 90px;
+}
+.map__wrapper{
+    margin-top: 30px;
+}
